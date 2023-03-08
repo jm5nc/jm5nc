@@ -1,1 +1,1 @@
-currently studying MIT data science micromasters, doing challenges at hackerrank and leetcode, and often on coursera - so my code will usually be related to those 
+currently studying MIT data science micromasters, doing challenges at hackerrank and leetcode, and often on coursera - so my code will usually be related to those (although I may be limited in what I can include in public repositories for the former.)
